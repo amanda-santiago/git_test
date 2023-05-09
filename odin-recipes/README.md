@@ -1,0 +1,1 @@
+This project is a simple site with 3 recipes, using the concepts of ordered and unordered lists, relative links and images
